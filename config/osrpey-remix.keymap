@@ -25,6 +25,11 @@
             bindings = <&kp MINUS>;
             key-positions = <17 16>;
         };
+
+        haen {
+            bindings = <&kp LANG1>;
+            key-positions = <32 33>;
+        };
     };
 
     keymap {
